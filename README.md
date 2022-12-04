@@ -1,2 +1,5 @@
-# Exam_Rank_03
-42_Cursus - Exam_Rank_03
+## ♦️  Exam_Rank_03
+
+#### 🔹 <i>ft_printf</i>
+OR
+#### 🔹 <i>get_next_line</i>
